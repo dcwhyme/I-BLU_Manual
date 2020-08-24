@@ -1,0 +1,82 @@
+========================================= Manual for Corp Leadership =========================================
+
+#First section is pretty much the same as the member manual
+
+== Part 1: Just a general welcome to I-BLU, what we do, an overview of benefits. The standard marketing wank of most
+multinationals HR manuals.
+
+    * Welcome to the Intaki Business Logistics Unit.
+
+    * Overview of our slogan "Supporting the development of Syndicate and Placid", and something on bridging the border.
+
+    * Members maintain their autonomy, but there are things handled at the alliance level that may be up for discussion
+    with the proper people, however, have no requirement to change.
+
+== Part 2: Suggestions
+
+    * Check your corp standings. You have probably lived other places and made other friends. For that matter, previous
+    "enemies" may now be friends. Make sure any discrepancies between alliance and corp contacts are well thought out.
+
+        * Remember to have members check their standings as well. There are few things worse to not seeing somebody about
+        to gank you because they are still blue. Also, if an alliance or coalition mate had previously ganked them, they
+        may have set them red, leading to a diplomatic incident.
+
+        * In general, it's best to try to minimize the number of standings you set. If somebody is harassing you in the pocket,
+        bring it up with a diplo. Chances are if they are bugging you, they'll bug the rest of us, so best to handle it at
+        an alliance/coalition level. Something something top level down, etc.
+
+
+    * Make sure your members have their overview set up correctly. We live in nullsec where anybody can shoot you at any
+    time with no police presence to help you out. Kinda like living in Rural Kentucky actually. Having negative security
+    status means essentially nothing and showing that above blues is a good way to cause a diplomatic incident.
+
+        * Guides like http://evedarklord.blogspot.com/2014/05/un-fuck-your-overview.html are handy if a bit dated,
+         or a public overview pack (I use PocketsDK, but most work just as well, if not better). Not so much a problem for
+         people who have played recently or did a fresh install, but there are people playing from that era who still have
+         screwed up overviews.
+
+
+     * Moving in - keep strategic/high value assets in a NPC station. One of the benefits of NPC null is we have structures
+     that we can't be locked out of, nor can they be blown up. Don't keep anything for home defense in an alliance/coalition
+     structure. Similarly, you may want to consider using a NPC station to hold high value blueprints as well and use copies
+     for production/invention. Just food for thought.
+
+        * Don't be afraid to ask for help if you need it. We can't guarantee anything other than alliance transport services
+        but it's usually possible to find a scout at least. Moving sucks, we've all done it and few of us wish those troubles
+        on our worst enemy.
+
+     * Know your alliance contacts - we're here to help you succeed. If you have any questions or concerns, shoot us an EVEMail,
+     ping us on Discord, or PM us when we're online. We aren't available 24/7 (still haven't figured out how to not sleep)
+     but we'll treat it with all due urgency as we can.
+
+        * Keep us informed with how your corp is doing. It's mutually beneficial to keep abreast of new developments.
+        Have a new BPO that you are about to put into production? We can suggest ways to market it. Need to take some
+        RL time? Let us know and we can discuss what needs to be done.
+
+        * This is EvE. Drama is a given. We try to keep things as drama free as possible though. If you have something
+        going on in your corp that isn't likely to become public, it's none of our business. But, if you want to share,
+        talk or get a second opinion, we're here for that too. All we ask is you give us a heads-up should anything
+        negative that is likely to become public rears its head.
+
+        * Moving out - It hasn't happened yet but it will. We need a policy on this. I suggest one week is ample for most
+        cases (if they leave alliance voluntarily, this is one of the cases where temporary blues may be appropriate).
+        If at all possible, they probably need to stay in alliance until their move is complete though.
+
+            * For severe infractions, given this is NPC null, instant red isn't out of the question. Help them get their
+            stuff to a NPC station for EVAC (if possible/warranted) and from there they should probably be on their own.
+            Pushx and Blck Frog are still things after all.
+
+
+    * Structure Policy - We may want to toughen up a bit on this. Structure grinding sucks should the corp go inactive
+    or left/kicked from alliance. Maybe look at an alliance buyout of corp structures eventually.
+
+        *Suggested ACL to use for structures that they wish to make accessible to the alliance/coalition in the meantime.
+        Probably need to make sure at at least one person from every TZ has admin access though for emergency situations
+        (such as friendlies needing access to defend a structure, etc).
+
+
+    * Neutural Alts - All under one umbrella if possible (not always so, I have intel gathering alts that work best when
+    never associated with the me ya'll know for example). But, minimizing the number of "That's my alt" calls in intel is
+    important.
+
+
